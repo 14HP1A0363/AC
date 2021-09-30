@@ -1,0 +1,1 @@
+If there are some conflicts in the branch, resolve them, and perform below commands to continue changes:
